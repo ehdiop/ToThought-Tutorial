@@ -1,0 +1,17 @@
+com.xyz.myproject.GUI.controller
+com.xyz.myproject.GUI.presentation
+com.xyz.myproject.GUI.presentation.exceptions
+com.xyz.myproject.GUI.presentation.general
+com.xyz.myproject.GUI.presentation.projet
+com.xyz.myproject.GUI.presentation.tabmodels
+com.xyz.myproject.bdd.enums
+com.xyz.myproject.bdd.tests
+com.xyz.myproject.bdd.utils
+com.xyz.myproject.model
+com.xyz.myproject.model.controllers
+com.xyz.myproject.model.exceptions
+com.xyz.myproject.model.general
+com.xyz.myproject.model.projet
+com.xyz.myproject.model.sectionsBC
+com.xyz.myproject.model.tests
+com.xyz.myproject.model.tests.calendar
